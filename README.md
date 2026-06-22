@@ -1,3 +1,5 @@
+# This is a public demonstration of the private repository I managed with my teammates for our final bachelor project in the Monterrey Institute of Technology and Higher Education. You may however still find the reports in the Reports folder with all findings, but these will be in spanish. I can always chat about the project in english with those interested! 
+
 # Basket Recommender — ANA-03 Cross-selling (Afinidad de Canasta)
 
 Sistema de recomendación de productos complementarios para el caso de uso **ANA-03 Cross-selling** sobre la plataforma **TCA Merksyst**. Dada una canasta parcial de compra (de 1 a 10 productos), el sistema devuelve el **Top-10 de productos más probables a agregar**, ordenados.
