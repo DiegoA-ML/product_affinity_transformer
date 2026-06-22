@@ -1,4 +1,4 @@
-# This is a public demonstration of the private repository I managed with my teammates for our final bachelor project in the Monterrey Institute of Technology and Higher Education. You may however still find the reports in the Reports folder with all findings, but these will be in spanish. I can always chat about the project in english with those interested! 
+# Project Overview (English). End-to-end product recommendation engine for a retail ERP (TCA Merksyst). An EarlyFusionTransformer (PyTorch) fuses sequential (GRU), topological (TDA), and time-series product signals for next-item ranking, reaching Hit@10 of 31.2% on a 3,000-SKU catalog. Served as a REST API (FastAPI, Docker, Azure Container Apps), with a full business case. This public version documents the architecture, data flow, and results (but no code or data, as these are in the private repository); full reports are in /Reports (Spanish). Happy to walk through it in English.
 
 # Basket Recommender — ANA-03 Cross-selling (Afinidad de Canasta)
 
